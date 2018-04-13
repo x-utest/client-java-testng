@@ -20,15 +20,15 @@
 
 0. 注意：很重要的一点，使用之前，需要先安装xtest系统，项目官网：http://xtest.readthedocs.io/zh/latest/src/local_install.html
 
-1. 第一步：如果你已经可以登录xtest系统，并看到系统界面的话，请先新建一个项目，并获取到配置信息（获取方法请参考xtest官网），就可以clone工程 `client-testng-demo` 到你的电脑本地，导入到idea中；
+1. 第一步：如果你已经可以登录xtest系统，并看到系统界面的话，请先新建一个项目，并获取到配置信息（获取方法请参考xtest官网），就可以clone工程 `client--java-testng-demo` 到你的电脑本地，导入到idea中；
 
 3. 第二步：修改配置文件中xtest_cfg.java,将project_id，app_id，app_key按照上一步获取到的配置信息进行更新，对于base_url，如果只是在本机访问xtest web端，则不用修改，否则请修改为：http：//固定IP：8009;
 
 4. 第三步：运行工程中的`testng.xml`文件,如果可以看到控制打印日志：“测试套件执行已经开始：2018:04:13 16:17:13……”，即为正常；
 
-5. 第四步：运行start.java文件，此时会把测试数据发送到服务端，如果看到控制打印日志：“恭喜，本次测试数据，提交成功了”，即为正常；
+5. 第四步：运行`start.java`文件，此时会把测试数据发送到服务端，如果看到控制打印日志：“恭喜，本次测试数据，提交成功了”，即为正常；
 
-6. 第五步：执行完了start.java之后，你就可以到xtest的web端看看测试数据的前端展示了，cool。
+6. 第五步：执行完了`start.java`之后，你就可以到xtest的web端看看测试数据的前端展示了，cool。
 
 
 # 四、其他说明：
