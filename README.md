@@ -1,9 +1,9 @@
-# client-java-testng
+# client-java-testng-demo
 
-testng 的客户端，数据采集端
+testng 的客户端，负责测试数据采。
 
 
-# 成为贡献者
+# 成为代码贡献者
 
 请联系 QQ：1295351490 Harmo哈莫
 
@@ -30,7 +30,7 @@ testng 的客户端，数据采集端
 
 0. 注意：很重要的一点，使用之前，需要先安装xtest系统，项目官网：http://xtest.readthedocs.io/zh/latest/src/local_install.html
 
-1. 第一步：如果你已经可以登录xtest系统，并看到系统界面的话，请先新建一个项目，并获取到配置信息（获取方法请参考xtest官网），就可以clone工程 `client-testng-demo` 到你的电脑本地，导入到idea中；
+1. 第一步：如果你已经可以登录xtest系统，并看到系统界面的话，请先新建一个项目，并获取到配置信息（获取方法请参考xtest官网），就可以clone工程 `client-java-testng-demo` 到你的电脑本地，导入到idea中；
 
 3. 第二步：修改配置文件中xtest_cfg.java,将project_id，app_id，app_key按照上一步获取到的配置信息进行更新，对于base_url，如果只是在本机访问xtest web端，则不用修改，否则请修改为：http：//固定IP：8009;
 
