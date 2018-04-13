@@ -1,0 +1,1 @@
+{"total":4,"failures":1,"run_time":0.061927984,"pro_id":"5acc4e7663799a001ebd3636","pro_version":"\"3.17.6.12.1\"","details":[{"explain":"apps.testngTestDemo","note":"java.lang.AssertionError: expected [2] but found [1]","test_case":"Testfun2","status":"failures"}],"errors":0,"was_successful":false,"skipped":1}
