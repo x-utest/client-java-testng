@@ -46,6 +46,12 @@ testng 的客户端，负责测试数据采。
 在工程中每一个java文件中，都做了详细注释，有java基础的人，应该可以很快看懂整个流程了。由于本人java水平有限，故而可能存在缺陷，如有发现，可以帮忙参与改进，非常感谢！
 
 
+# 五、相关链接：
+
+https://github.com/x-utest/xtest-testng-sdk
+
+感谢作者ityoung提供的testng测试数据获取方法。
+
 
 ## Author
 
