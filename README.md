@@ -48,7 +48,7 @@ testng 的客户端，负责测试数据采。
 
 # 五、相关链接：
 
-https://github.com/x-utest/xtest-testng-sdk
+参考了此项目源码：https://github.com/x-utest/xtest-testng-sdk
 
 感谢作者ityoung大神提供的testng测试数据获取方法。
 
